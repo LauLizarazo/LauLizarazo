@@ -50,12 +50,38 @@
 
 <br>
 
-### ⚙️ GitHub Analytics
+<h2>🚀 Languages and Knowledge</h2>
 
-<p align="center">
-  <a href="https://github.com/LauLizarazo" target="_blank">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LauLizarazo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LauLizarazo&layout=compact&langs_count=8&theme=algolia" alt="Top Languages">
-  </a>
-</p>
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+
+  <div style="display: flex; align-items: center; gap: 10px; border-radius: 10px; background-color: #a09; padding: 10">
+    <img src="https://www.r-project.org/Rlogo.png" width="30" height="30"/>
+    <p style="margin: 0; font-size: 20px; color: #fff; font-weight:900;">R</p>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 10px; border-radius: 10px; background-color: #a09; padding: 10">
+    <img src="https://www.r-project.org/Rlogo.png" width="30" height="30"/>
+    <p style="margin: 0; font-size: 20px; color: #fff; font-weight:900;">R</p>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 10px; border-radius: 10px; background-color: #a09; padding: 10">
+    <img src="https://www.r-project.org/Rlogo.png" width="30" height="30"/>
+    <p style="margin: 0; font-size: 20px; color: #fff; font-weight:900;">R</p>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 10px; border-radius: 10px; background-color: #a09; padding: 10">
+    <img src="https://www.r-project.org/Rlogo.png" width="30" height="30"/>
+    <p style="margin: 0; font-size: 20px; color: #fff; font-weight:900;">R</p>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 10px; border-radius: 10px; background-color: #a09; padding: 10">
+    <img src="https://www.r-project.org/Rlogo.png" width="30" height="30"/>
+    <p style="margin: 0; font-size: 20px; color: #fff; font-weight:900;">R</p>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 10px; border-radius: 10px; background-color: #a09; padding: 10">
+    <img src="https://www.r-project.org/Rlogo.png" width="30" height="30"/>
+    <p style="margin: 0; font-size: 20px; color: #fff; font-weight:900;">R</p>
+  </div>
+
+</div>
