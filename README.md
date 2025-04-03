@@ -42,9 +42,9 @@
   
   <br>
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="45" height="40">
+  <img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="Git" width="80" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="45" height="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="40">
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" width="45" height="50">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter Notebook" width="45" height="40">
 </p>
 
