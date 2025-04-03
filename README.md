@@ -33,7 +33,7 @@
 
 <br>
 
-## Languages and Knowledge
+## 🚀 Languages and Knowledge
 
 <p align="center">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/r.svg" alt="R" style="vertical-align:top; margin:4px">
@@ -49,39 +49,3 @@
 </p>
 
 <br>
-
-<h2>🚀 Languages and Knowledge</h2>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
-
-  <div style="display: flex; align-items: center; gap: 10px; border-radius: 10px; background-color: #a09; padding: 10">
-    <img src="https://www.r-project.org/Rlogo.png" width="30" height="30"/>
-    <p style="margin: 0; font-size: 20px; color: #fff; font-weight:900;">R</p>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 10px; border-radius: 10px; background-color: #a09; padding: 10">
-    <img src="https://www.r-project.org/Rlogo.png" width="30" height="30"/>
-    <p style="margin: 0; font-size: 20px; color: #fff; font-weight:900;">R</p>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 10px; border-radius: 10px; background-color: #a09; padding: 10">
-    <img src="https://www.r-project.org/Rlogo.png" width="30" height="30"/>
-    <p style="margin: 0; font-size: 20px; color: #fff; font-weight:900;">R</p>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 10px; border-radius: 10px; background-color: #a09; padding: 10">
-    <img src="https://www.r-project.org/Rlogo.png" width="30" height="30"/>
-    <p style="margin: 0; font-size: 20px; color: #fff; font-weight:900;">R</p>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 10px; border-radius: 10px; background-color: #a09; padding: 10">
-    <img src="https://www.r-project.org/Rlogo.png" width="30" height="30"/>
-    <p style="margin: 0; font-size: 20px; color: #fff; font-weight:900;">R</p>
-  </div>
-
-  <div style="display: flex; align-items: center; gap: 10px; border-radius: 10px; background-color: #a09; padding: 10">
-    <img src="https://www.r-project.org/Rlogo.png" width="30" height="30"/>
-    <p style="margin: 0; font-size: 20px; color: #fff; font-weight:900;">R</p>
-  </div>
-
-</div>
