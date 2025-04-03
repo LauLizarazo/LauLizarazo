@@ -13,7 +13,7 @@
   </p>
 </div>
 
-<div align="center" style="border: 2px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; margin: auto; background-color: #f9f9f9;">
+<div align="center" style="border: 2px solid #ddd; border-radius: 10px; padding: 15px; width: 300px; margin: auto;">
   <a href="https://www.linkedin.com/in/laura-johana-lizarazo-reyes" target="_blank" style="text-decoration: none; display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" style="vertical-align: middle; margin-right: 8px;">
     <span style="font-size: 1.2em; color: #0077B5;">LinkedIn Profile</span>
